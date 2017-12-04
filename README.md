@@ -1,3 +1,1 @@
-** Documentación de proyecto **
-
--- En construcción 
+**Documentación de proyecto..En construcción**
